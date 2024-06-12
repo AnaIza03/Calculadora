@@ -4,6 +4,10 @@
 
 https://github.com/AnaIza03/Calculadora
 
+#### git clone
+
+https://github.com/AnaIza03/Calculadora.git
+
 Este projeto é uma calculadora fofa que realiza operações básicas de aritmética e interage com o usuário por meio de um robô. 
 O design da calculadora e do robô foi inspirado em um estilo colorido e amigável. A calculadora é implementada usando HTML, CSS e JavaScript.
 
